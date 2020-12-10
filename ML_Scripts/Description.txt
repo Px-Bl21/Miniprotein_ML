@@ -1,0 +1,12 @@
+Script 1: Iterative scans via various Machine Learning algorithms
+Script 2: Data Distribution and Data relations
+Script 3a: RandomForest Classifier performance on HA data
+Script 3b: RandomForest Classifier performance on BOT data
+Script 3c: RandomForest Classifier performance on combined data
+Script 4a: Dimensional Reduction on Mini Data
+Script 4b: Hyperparameter optimization
+Script 5a: RandomForest Classifier performance on Step 1 Mini HA data
+Script 5b: RandomForest Classifier performance on Step 2 modified HA data
+Script 5c: RandomForest Classifier performance on Step 3 modified HA data
+Script 6: RandomForest Testing Step1 algorithm on complete HA data
+Script 7: RandomForest Classifier on raw data
